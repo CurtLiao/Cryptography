@@ -1,0 +1,26 @@
+Plaintext             : keepgoingnevergiveup
+Caesar cipher         : RLLWNVPUNULCLYNPCLBW
+Monoalphabetic cipher : ATTHUGOFUFTCTKUOCTXH
+Playfair cipher       : MCCROUALFOCXMXDBXCPQ
+H I T A B
+C D E F G
+K L M N O
+P Q R S U
+V W X Y Z
+Vernam cipher         : IKJFCKHLIFJTJVTMEC][
+Row transposition     : ENEGEKGVOREEUPVPNIIG
+3 1 5 6 2 4 8 7
+K E E P G O I N
+G N E V E R G I
+V E U P
+Product cipher        : GEUEIEIREPPVGOKGVENN
+
+
+key :
+
+7
+MNBVCXZLKJHGFDSAPOIUYTREWQ
+HIT
+CON
+31562487
+15 11 19 18 16 03 07 14 02 20 04 12 09 06 01 05 17 13 10 08
